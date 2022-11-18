@@ -12,7 +12,6 @@ body {
 .navigation li {
   font-weight: 100;
   letter-spacing: 2px;
-  padding: 20px;
 }
 
 .navigation  li.logo {
@@ -31,20 +30,17 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid white;
   position: relative;
   top: 50px;
   width: 400px;
   margin: 0 auto;
+  border: 3px solid white;
 }
 
 #main {
-  margin: 0 auto;
   padding: 40px;
   text-align: center;
   width: 400px;
-  height: 1000px;
-  overflow: scroll;
 }
 
 h1 {
@@ -55,13 +51,11 @@ h1 {
 }
 
 h2 {
-  border: 1px dotted red;
   color: red;
   font-size: 14px;
   line-height: 48px;
-  padding: 20px 30px;
-  margin: 30px 20px;
   text-align: center;
+  border: 1px dotted red;
 }
 
 h3 {
@@ -75,13 +69,9 @@ p {
   color: grey;
   font-size: 16px;
   line-height: 48px;
-  margin-top: 60px;
-  padding: 10px 20px;
 }
 
 .pull-quote {
-  margin: 0 auto;
-  width: 400px;
 }
 
 .byline {
@@ -106,8 +96,6 @@ p {
   border-radius: 3px;
   color: white;
   display: inline-block;
-  margin: 10px;
-  padding: 14px;
   text-decoration: none;
 }
 
