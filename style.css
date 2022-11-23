@@ -12,7 +12,7 @@ body {
 .navigation li {
   font-weight: 100;
   letter-spacing: 2px;
-   padding: 20px;
+  padding: 20px;
 }
 
 .navigation  li.logo {
@@ -57,11 +57,9 @@ h2 {
   font-size: 14px;
   line-height: 48px;
   text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 30px;
 }
+/*Can you please add more color h2 and h1 */ 
 
 h3 {
   color: red;
@@ -74,6 +72,7 @@ p {
   color: grey;
   font-size: 16px;
   line-height: 48px;
+  padding: 10px 20px;
 }
 
 .pull-quote {
@@ -101,8 +100,8 @@ p {
   border-radius: 3px;
   color: white;
   display: inline-block;
-  text-decoration: none;
   padding: 14px;
+  text-decoration: none;
 }
 
 .share a:hover {
